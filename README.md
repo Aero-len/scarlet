@@ -4,7 +4,9 @@ Scarlet, a theme inspired by the mountain theme,
 link - https://github.com/mountain-theme/mountain
 
 Distro - Manjaro
+
 WM - i3
+
 Color scheme - Mountain
 
 terminal: 
