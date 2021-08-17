@@ -1,5 +1,5 @@
 # Scarlet
-Scarlet, a theme inspired by the mountain theme, 
+Scarlet, a theme inspired by the great mountain color scheme, 
 
 link - https://github.com/mountain-theme/mountain
 
