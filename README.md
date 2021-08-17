@@ -9,6 +9,16 @@ WM - i3
 
 Color scheme - Mountain
 
+Terminal - Alacritty 
+
+Music visualiser - cava
+
+terminal screen-saver - pipes.sh
+
+fetch - pfetch
+
+color-script ( included in the colorscripts folder )
+
 terminal: 
 ![scrot_16-08-2021_16:32:07](https://user-images.githubusercontent.com/86827112/129668657-12e6bb1d-0fe3-4aec-a30d-657e313d9831.png)
 
